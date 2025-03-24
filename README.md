@@ -22,29 +22,9 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
-## 📝 Projects
-
-Here are some of my highlighted projects:
-
-- [Project 1 Name](https://github.com/Vikhyath1608/project1) — [brief description]
-- [Project 2 Name](https://github.com/Vikhyath1608/project2) — [brief description]
-- [Project 3 Name](https://github.com/Vikhyath1608/project3) — [brief description]
 
 ## 📈 GitHub Stats
 
 ![Vikhyath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikhyath1608&show_icons=true&theme=radical)
 ![Vikhyath's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vikhyath1608&theme=radical)
 
-## 🚀 Open Source Contributions
-
-- Contributed to [Project Name](https://github.com/username/project) — [brief description]
-- ⚡ Active participant in [Community or Organization]
-
-## ✍️ Blog & Articles
-
-- [Title 1](https://link-to-article.com) – Short description
-- [Title 2](https://link-to-article.com) – Short description
-
-## 🤝 Let's Connect
-
-[![
