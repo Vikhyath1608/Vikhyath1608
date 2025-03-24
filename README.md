@@ -1,13 +1,5 @@
 # Hi, I'm Vikhyath Rai MS! 👋
 
-## About Me
-
-- 🌱 I’m currently learning [mention any current tech or framework]
-- 💡 Passionate about solving real-world problems using technology
-- 🔭 I’m working on [mention ongoing project or goal]
-- 💬 Ask me about [mention your expertise or favorite technologies]
-- 📫 Reach me at [your email or social link]
-
 ## 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
