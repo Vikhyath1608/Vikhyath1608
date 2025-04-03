@@ -18,5 +18,3 @@
 ## 📈 GitHub Stats
 
 ![Vikhyath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikhyath1608&show_icons=true&theme=radical)
-![Vikhyath's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vikhyath1608&theme=radical)
-
