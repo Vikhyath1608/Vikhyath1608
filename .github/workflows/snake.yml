@@ -1,0 +1,61 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: vikhyath1608
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+5. Click **"Commit changes"** → **"Commit directly to main"** → **Commit**
+
+---
+
+## Step 3: Enable write permissions for Actions
+
+1. Go to your repo → click **Settings** (top tab)
+2. In the left sidebar click **Actions** → **General**
+3. Scroll down to **"Workflow permissions"**
+4. Select **"Read and write permissions"**
+5. Click **Save**
+
+---
+
+## Step 4: Run the workflow manually (first time)
+
+1. Go to your repo → click **Actions** (top tab)
+2. You'll see **"Generate Snake Animation"** in the left list — click it
+3. On the right side click **"Run workflow"** button
+4. In the dropdown click the green **"Run workflow"** button
+5. Wait ~30 seconds and refresh the page
+6. You'll see a green checkmark ✅ when it's done
+
+---
+
+## Step 5: Verify it worked
+
+1. Go to your repo's branch list — you should now see a new branch called **`output`**
+2. Click on it — you'll see:
+```
+   github-snake.svg
+   github-snake-dark.svg
