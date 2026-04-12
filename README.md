@@ -11,7 +11,7 @@
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0a0a0f&color=1a0a2e)](https://linkedin.com/in/vikhyath-rai-ms)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=60a5fa&labelColor=0a0a0f&color=0d0d2e)](mailto:vikhyathraims0901@gmail.com)&nbsp;
-[![Portfolio](https://vikhyath-rai.vercel.app/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0a0a0f?style=for-the-badge&logo=vercel&logoColor=34d399&labelColor=0a0a0f&color=0a1628)](https://vikhyath-rai.vercel.app/)&nbsp;
 ![Location](https://img.shields.io/badge/-Hyderabad%2C%20IN-0a0a0f?style=for-the-badge&logo=googlemaps&logoColor=fb923c&labelColor=0a0a0f&color=1a0a2e)
 
 </div>
