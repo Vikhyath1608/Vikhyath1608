@@ -133,19 +133,6 @@ Voice → NLP Intent Parsing → Grounded System Action. Goes beyond chatbots �
 
 ---
 
-## 📊 github pulse
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vikhyath1608&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=a78bfa&icon_color=60a5fa&text_color=94a3b8&rank_icon=github" width="47%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikhyath1608&theme=midnight-purple&hide_border=true&background=0a0a0f&ring=a78bfa&fire=fb923c&currStreakLabel=a78bfa&sideLabels=94a3b8" width="47%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikhyath1608&theme=react-dark&bg_color=0a0a0f&color=a78bfa&line=7c3aed&point=60a5fa&area_color=7c3aed&area=true&hide_border=true&custom_title=contribution%20activity" width="96%"/>
-
-</div>
-
 <!-- Snake: set up via https://github.com/Platane/snk -->
 <div align="center">
 <picture>
